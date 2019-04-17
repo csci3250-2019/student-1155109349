@@ -23,7 +23,7 @@ I am a **Freshman** in GitHub
 - App Developer
 
 
-#feeling
+
 
 Course | CSCI 3250
 ------------ | ------------ 
