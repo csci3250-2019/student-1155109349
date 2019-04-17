@@ -10,7 +10,7 @@ programming languages I know
 - C++
 - MySQL
 
-I had **No Experience** in GitHub 
+I am a **Freshman** in GitHub 
 
 # Homework in CSCI 3250
 - [x] 2 Visit Report
