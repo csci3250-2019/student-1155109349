@@ -1,7 +1,6 @@
-# Alex LAM Hi self-introduction
+# Self-introduction
 
-
-Hello,I’m Alex.
+Hello,I’m LAM Hi,Alex 😃
 
 # Learning Experience
 
